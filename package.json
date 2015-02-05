@@ -1,0 +1,12 @@
+{
+  "name": "lib-hhconnect",
+  "version": "2.0.0",
+  "description": "Post message lib",
+  "main": "hhConnect.js",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:hackhands/lib-hhconnect.git"
+  },
+  "author": "HackHands Dev Team",
+  "license": "MIT"
+}
