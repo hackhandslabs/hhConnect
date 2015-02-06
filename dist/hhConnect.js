@@ -34,7 +34,7 @@ module.exports = function(userConfig){
 
     // Helper: Send the message using an RPC fashion
     var sendMessage = function(name, data, id) {
-        console.log('sendMessage', [name, data, id])
+        //console.log('sendMessage', [name, data, id])
         config.target.postMessage({
             namespace: config.namespace, 
             id: id || nextMessageID(), 
