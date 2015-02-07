@@ -1,0 +1,19 @@
+{
+  "name": "hhConnect",
+  "version": "2.0.4",
+  "authors": [
+    "HackHands Dev Team"
+  ],
+  "main": "dist/hhConnect.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
